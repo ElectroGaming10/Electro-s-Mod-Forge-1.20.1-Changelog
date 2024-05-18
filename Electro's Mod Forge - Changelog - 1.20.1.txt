@@ -1,0 +1,28 @@
+Electro's Mod - 1.20.1 Changelog
+1.4
+===
+    - 1.4.4: Added Texture - Inventory: Cotten Flower, Modified Decay Attacks: Added Hard, Modified Easy and Normal, Modified Timer for each Difficulty, Modified Craft Recipes: Electric Sword I, Electric Sword II, Electric Sword III, Ice Sword I, and Antibiotics
+    - 1.4.3: Added Song: Davboy's Friends - Taco's Song (Electro's Cover), Added Item - Music Disk: Davboy's Friends - Taco's Song (Electro's Cover)
+    - 1.4.2: Melee AI Task for entities Update
+    - 1.4.1: Added Song: Davboy's Friends - Electro's Song (Electro's Cover), Added Item - Music Disk: Davboy's Friends - Electro's Song (Electro's Cover)
+    - 1.4: Pre-Release; Reserved Mod
+
+1.3
+===
+    - 1.3: Unplanned Release Mod
+
+Mod Description:
+    - Mod ID: electros_mod
+    - Credits:
+    Creator: ElectroGaming10
+    Coder: ElectroGaming10
+    Logos, Pictures, Textures: ElectroGaming10
+    Music Producer/Developer: Davboy28, ElectroGaming10
+
+    - Homepage: https://sites.google.com/view/electrosapps/home
+    - Mod Update Link: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods
+    - License: MIT License / Some Rights Reserved
+
+Copyright © 2023. Some Rights Reserved
+- Electro's Apps
+By ElectroGaming10
