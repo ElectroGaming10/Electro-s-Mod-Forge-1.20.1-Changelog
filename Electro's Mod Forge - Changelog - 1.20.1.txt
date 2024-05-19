@@ -1,7 +1,8 @@
 Electro's Mod - 1.20.1 Changelog
 1.4
 ===
-    - 1.4.6: Modified Decay Attacks: Added Random Effect Applies System, Added Language: Spanish (US, Mexico)
+    - 1.4.7: Added Song: Davboy28 - Smiling Critters, Davboy28 - Smiling Critters Remake, Added Item - Music Disk: Davboy28 - Smiling Critters Remake
+    - 1.4.6: Modified Decay Attacks: Random Effect Applies System, Added Language: Spanish (US, Mexico)
     - 1.4.5: Modified Projectile: Ice Arrow Drops, Modified Entity Behaviors: Electric Soldier, Electric Soldier Trainer, Modified Loot Drop - Powerful Creeper II: Added Electro's Song (Electro's Cover) Disk, Taco's Song (Electro's Cover) Disk, Fixed Fortune Loot Drops, Added Language: Japanese
     - 1.4.4: Added Texture - Inventory: Cotten Flower, Modified Decay Attacks: Added Hard, Modified Easy and Normal, Modified Timer for each Difficulty, Modified Craft Recipes: Electric Sword I, Electric Sword II, Electric Sword III, Ice Sword I, and Antibiotics
     - 1.4.3: Added Song: Davboy's Friends - Taco's Song (Electro's Cover), Added Item - Music Disk: Davboy's Friends - Taco's Song (Electro's Cover)
