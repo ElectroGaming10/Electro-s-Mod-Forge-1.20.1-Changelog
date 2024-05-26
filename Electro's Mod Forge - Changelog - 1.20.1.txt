@@ -1,6 +1,7 @@
 Electro's Mod - 1.20.1 Changelog
 1.4
 ===
+    - 1.4.10/1.5: Fixed Sun Burn, Added Powered Electric Soldier, Powered Projectile, Powered Sword I, Zombified Powered Electric Soldier Powered Procedures, Edited Languages: Spanish and Japanese
     - 1.4.9: Added Restrict Sun and Breaking Door Systems
     - 1.4.8: Added Decay Death System
     - 1.4.7: Added Song: Davboy28 - Smiling Critters, Davboy28 - Smiling Critters Remake, Added Item - Music Disk: Davboy28 - Smiling Critters Remake, Added Title Screen, Added Title Screen Music
